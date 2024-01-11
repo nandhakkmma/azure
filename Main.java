@@ -7,4 +7,3 @@ public class Main{
     System.out.print("the sum is ");
    System.out.println(sum);
   }
-}
